@@ -4,7 +4,7 @@ Being able to apply alternating style may improve the readabily of the DataGridV
 
 #### Setting Style Programmatically
 
-```{.html caption="C Sharp"}
+```{.cs caption="C Sharp"}
 this.dataGridView1.RowsDefaultCellStyle.BackColor = Color.Biscue;
 this.dataGridView1.AlternatingRowsDefaultCellStyle.BackColor = Color.Beige;
 ```
